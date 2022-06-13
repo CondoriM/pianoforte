@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(#0f0f77 5%,#3535ec);
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.piano-panel{
+    height: 94px;
+    background-color: #f71469;
+}
